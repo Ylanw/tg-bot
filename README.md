@@ -1,4 +1,4 @@
-# tg-bots
+# tg-bot
 
 使用 telegram bot 往频道内定时推送消息：
 1. 每天早上 6:30 推送 Bing 壁纸
